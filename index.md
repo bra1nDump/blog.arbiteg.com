@@ -4,7 +4,7 @@
 
 layout: home
 ---
-# Arbiteg – connect directly to business, avoid resellers.
+# Arbiteg 
 
 Arbiteg is an online platform that connects local business to a global market of buyers and provides both parties with the best possible prices.
 
