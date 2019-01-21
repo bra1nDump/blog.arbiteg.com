@@ -4,8 +4,6 @@
 
 layout: home
 ---
-
-
 # Arbiteg – connect directly to business, avoid resellers.
 
 Arbiteg is an online platform that connects local business to a global market of buyers and provides both parties with the best possible prices.
@@ -25,8 +23,7 @@ Why did we choose Cinnamon? Primarily because Madagascar is its 5th largest prod
 
 We would like to mention again that Cinnamon is only a starting point and later we will start selling a wide variety of products, levelling off prices and excluding resellers in all spheres in all parts of the world.
 
-#### можно сказать про нашу конкретную цель как ты ее там формулировал
-## our partners
+## Our partners
 Currently we are seeking for owners of small grocery stores, restaurants and cafes, who care about the quality of the products they sell, and which is even more important those who care about the impact that their buying preferences have. On this stage we are looking for small groceries because we believe that small business owners more likely will help other small business owners.
 
 Even though we realize that without our American and European partners Arbiteg's existance would be threatened, we make producers' interests our priority. In the future we will balance buyers' and producers' needs more, but now our aim is to help our partners in Uganda and Madagascar to grow their business and improve their living conditions. 
