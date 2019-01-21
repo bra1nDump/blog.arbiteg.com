@@ -14,9 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: 
-"Contact us
-info@arbiteg.com
-+1(818)519-2058"
+"Contact us info@arbiteg.com +1(818)519-2058"
 description: >- # this means to ignore newlines until "baseurl:"
   I'm just looking at the title.
 baseurl: "" # the subpath of your site, e.g. /blog
