@@ -5,10 +5,8 @@
 layout: home
 ---
 
-#### landing page Arbiteg
 
-## Arbiteg
-#Connect directly to small businesses, get best prices and give your support to producers, not resellers.
+# Arbiteg – connect directly to small businesses,cut resellers.
 
 Arbiteg is an online platform that connects local business to a global market of buyers and provides both parties with the best possible prices.
 
