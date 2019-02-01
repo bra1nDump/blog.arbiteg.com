@@ -11,6 +11,8 @@ Arbiteg is an online platform that connects local business to a global market of
 
 We don't buy or sell products. Instead we connect producers to final buyers, giving them the full price of their production without deducting high reselling fees.
 
+[![Arbiteg about video with founders](https://img.youtube.com/vi/-Q5O27xChD8/0.jpg)](https://www.youtube.com/watch?v=-Q5O27xChD8)
+
 ## Our mission
 As we have traveled around the world, we saw how prices in the First world differ from the prices in the Third world. Producers in the First having access to the best bids, prosper, while producers in the Third world are killed by resellers and isolation. Our goal is to make the market more fair and levell off the prices around the globe. 
 
