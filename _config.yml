@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Arbiteg"
-emai: info@arbiteg.com
+email: info@arbiteg.com
 phone: +1(818)519-2058
 description: >- # this means to ignore newlines until "baseurl:"
   Join Arbiteg, join fair future.
