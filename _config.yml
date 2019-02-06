@@ -7,7 +7,7 @@
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-config  <!-- Global site tag (gtag.js) - Google Analytics -->
+config: <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-133903702-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
