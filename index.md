@@ -24,7 +24,7 @@ To be even more specific, Cinnamon.
 
 Why did we choose Cinnamon? Primarily because Madagascar is its 5th largest producer and Uganda's output is pretty significant too, while farmers, growing Cinnamon there receive only about 10-20% of the final price. This is the disgusting dishonesty that Arbiteg will solve. And by starting solving problems in countries like Uganda and Madagascar we will show the whole world that Arbiteg can solve such problems anywhere in the world.
 
-#### Currently we are making a research on the market we are going to operate in and we are surveying Los Angeles based owners/managers of cafes and restaurants to better understand them. Since we value their time we are giving out 5$ Starbucks gift cards to every owner/manager of cafe or restaurant who will answer our 6 question survey. We encourage you to share this with anyone who falls under our requirements. Here is the link to the survey: https://arbiteg.typeform.com/to/Vnliq9 
+#### Currently we are making a research on the market we are going to operate in and we are surveying Los Angeles based owners/managers of cafes and restaurants to better understand them. Since we value their time we are giving out 5$ Starbucks gift cards to every owner/manager of cafe or restaurant who will answer our 6 question survey. We encourage you to share this with anyone who falls under our requirements. Here is the link to the survey: https://arbiteg.typeform.com/to/aiY3YW
 
 We would like to mention again that Cinnamon is only a starting point and later we will start selling a wide variety of products, levelling off prices and excluding resellers in all spheres in all parts of the world.
 
