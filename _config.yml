@@ -4,8 +4,13 @@ phone: +1(818)519-2058
 description: >- # this means to ignore newlines until "baseurl:"
   Join Arbiteg, join fair future.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://bra1ndump.github.io/blog.arbiteg.com"
-github_username: bra1nDump
+
+url: "https://www.arbiteg.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+minima:
+  social_links:
+    facebook: arbitegInc
+    github: bra1nDump
 
 # Build settings
 markdown: kramdown
