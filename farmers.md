@@ -1,10 +1,6 @@
 ---
 layout: page
-title: Farmers
+title: Our Farmers
 ---
+Here will be a list of farmers who work with us – their interviews, description of their goods and its photos.
 
-Sell directly to your clients - restaurants, coffeeshops, individuals.
-
-To signup up for our service you need to do the following:
-1. lol
-2. lal
