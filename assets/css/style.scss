@@ -15,7 +15,9 @@
         url('/assets/img/landing-background-farmer.jpeg');
     background-size: cover;
     background-position: center;
-    height: 100vh;
+    //height: 100vh;
+    width: 100%;
+    height: 50vh;
 
     display: flex;
     justify-content: center;
@@ -24,4 +26,12 @@
 
 .landing-header-text {
     color: white;
+    text-align: center;
+}
+
+/*
+  Landing key takeaways
+*/
+.landing-card {
+    padding: 16px;
 }
