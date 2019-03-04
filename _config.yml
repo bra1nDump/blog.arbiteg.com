@@ -5,11 +5,12 @@ description: >- # this means to ignore newlines until "baseurl:"
   Join Arbiteg, join fair future.
 baseurl: "" # the subpath of your site, e.g. /blog
 
-
 url: "https://www.arbiteg.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 facebook_username: arbitegInc
 
+# Production
+google_analytics: UA-81206382-2
 
 # Build settings
 markdown: kramdown
