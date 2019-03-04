@@ -8,10 +8,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 url: "https://www.arbiteg.com" # the base hostname & protocol for your site, e.g. http://example.com
 
-minima:
-  social_links:
-    facebook: arbitegInc
-    github: bra1nDump
+facebook_username: arbitegInc
+
 
 # Build settings
 markdown: kramdown

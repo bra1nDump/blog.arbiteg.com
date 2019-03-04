@@ -2,3 +2,26 @@
 ---
 
 @import "minima";
+
+/* 
+   Landing page header image
+*/
+.landing-header {
+    background-image:
+        linear-gradient(
+            rgba(0, 0, 0, 0.6),
+            rgba(0, 0, 0, 0.6)
+        ),
+        url('/assets/img/landing-background-farmer.jpeg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.landing-header-text {
+    color: white;
+}
