@@ -28,6 +28,8 @@ We highly recommend you ordering cinnaon quils instead of powder, since than you
 
 Additional spices:
 
+Fish Tarmarind price yet unknown
+
 Black pepper 12$/kg (about 2.2 pounds)
 
 <img  style="height: 50vh"
