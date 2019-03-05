@@ -11,7 +11,7 @@ Arbiteg is an online platform that connects local business to a global market of
 
 We don't buy or sell products. Instead we connect producers to final buyers, giving them the full price of their production without deducting high reselling fees.
 
-[![Arbiteg about video with founders](https://img.youtube.com/vi/-Q5O27xChD8/0.jpg)](https://www.youtube.com/watch?v=-Q5O27xChD8)
+<iframe class="youtube-iframe" src="https://www.youtube.com/embed/-Q5O27xChD8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Our mission
 As we have traveled around the world, we saw how prices in the First world differ from the prices in the Third world. Producers in the First having access to the best bids, prosper, while producers in the Third world are killed by resellers and isolation. Our goal is to make the market more fair and levell off the prices around the globe.
@@ -23,9 +23,9 @@ Arbiteg is in the process of beta-testing, which means that we are still very sm
 To be even more specific, cinnamon and pepper.
 
 Cinnamon was chosen as a starting point for the following reasons:
-1.	It is grown in large quantities in Sri Lanka, where government heavily supports agricultural business and develops programs to support local farmers. Such programs will help farmers, working with us get quality certifications on cinnamon they produce and get free training to increase its quality. 
+1.	It is grown in large quantities in Sri Lanka, where government heavily supports agricultural business and develops programs to support local farmers. Such programs will help farmers, working with us get quality certifications on cinnamon they produce and get free training to increase its quality.
 2.	Cinnamon is expensive and there will be no need to transport tons of it to get sufficient cash flow, which decreases logistics issues we might face.
-3.	There is an improper price difference between countries where it is produced and USA, identifying the need in our services.  
+3.	There is an improper price difference between countries where it is produced and USA, identifying the need in our services.
 4.	Cinnamon can’t be grown in USA, while it is frequently used in the food industry, leading to its high demand in USA.
 
 
