@@ -2,7 +2,7 @@
   "name": "blog.arbiteg.com",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/server.js",
   "scripts": {
     "debug": "npm run jekyll-build && node inspect src/server.js",
     "test": "npm run jekyll-build && node src/server.js",
@@ -21,10 +21,7 @@
   "homepage": "https://github.com/bra1nDump/blog.arbiteg.com#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "cookie-parser": "^1.4.4",
-    "csurf": "^1.9.0",
     "express": "^4.16.4",
-    "jade": "^1.11.0",
     "stripe": "^6.28.0"
   }
 }

@@ -13,7 +13,6 @@ app.use(bodyParser.json())
 app.use(bodyParser.urlencoded())
 
 app.post('/api/place-order', async (req, res) => {
-	console.log('place order POST')
 	console.log(req.body)
 
 	const charge = await stripe.charges.create({
@@ -34,6 +33,7 @@ app.post('/api/place-order', async (req, res) => {
 	}))
 })
 
-app.listen(3000, () => {
-	console.log('listening on 3000')
+const port = process.env.PORT
+app.listen(port, () => {
+	console.log('listening on ' + port)
 })
