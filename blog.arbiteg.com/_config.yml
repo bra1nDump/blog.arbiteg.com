@@ -19,6 +19,12 @@ theme: minima
 plugins:
   - jekyll-seo-tag
 
+header_pages:
+  - mission.md
+  - farmers.md
+  - pricing.md
+  - team.html
+
 collections:
   members:
 

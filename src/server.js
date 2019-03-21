@@ -1,5 +1,6 @@
 let express = require('express')
 var bodyParser = require('body-parser')
+const url = require('url')
 
 let stripeAPIToken = process.env.stripToken || "sk_test_SkgQFmLtlPhZxSeJVOTLRHfC"
 var stripe = require("stripe")(stripeAPIToken)
@@ -24,6 +25,13 @@ app.post('/api/place-order', async (req, res) => {
 	});
 
 	console.log(charge)
+
+	res.redirect(url.format({
+		pathname: '/place-order-successfull.html',
+		query: {
+			recieptUrl: charge.receipt_url
+		}
+	}))
 })
 
 app.listen(3000, () => {
