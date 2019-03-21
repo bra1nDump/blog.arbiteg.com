@@ -33,7 +33,7 @@ app.post('/api/place-order', async (req, res) => {
 	}))
 })
 
-const port = process.env.PORT
+const port = process.env.PORT || 3000
 app.listen(port, () => {
 	console.log('listening on ' + port)
 })
