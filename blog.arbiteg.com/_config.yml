@@ -6,7 +6,16 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # url: "https://www.arbiteg.com" # the base hostname & protocol for your site, e.g. http://example.com
-url: "https://arbiteg-com.herokuapp.com"
+url: "https://www.arbiteg.com"
+
+header_pages:
+  - mission.md
+  - farmers.md
+  - pricing.md
+  - team.html
+
+collections:
+  members:
 
 facebook_username: arbitegInc
 instagram_username: arbitegInc
@@ -19,15 +28,6 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-seo-tag
-
-header_pages:
-  - mission.md
-  - farmers.md
-  - pricing.md
-  - team.html
-
-collections:
-  members:
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

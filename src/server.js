@@ -25,12 +25,7 @@ app.post('/api/place-order', async (req, res) => {
 
 	console.log(charge)
 
-	res.redirect(url.format({
-		pathname: '/place-order-successfull.html',
-		query: {
-			recieptUrl: charge.receipt_url
-		}
-	}))
+	res.redirect(charge.receipt_url)
 })
 
 const port = process.env.PORT || 3000
