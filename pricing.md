@@ -5,12 +5,12 @@ layout: page
 
 ## Pricing
 
-Ceylon cinnamon C5 grade 36$/kg (about 2.2 pounds)
+Ceylon cinnamon C5 grade 1$/oz
 
 <img class="pricing-img"
     src="/assets/img/pricing-cinnamon-c5.jpeg"/>
 
-Ceylon cinnamon alba grade 48$/kg (about 2.2 pounds)
+Ceylon cinnamon alba grade 1.5$/oz
 
 <img class="pricing-img"
     src="/assets/img/pricing-cinnamon-alba.jpeg"/>
@@ -30,7 +30,7 @@ Additional spices:
 
 Fish Tarmarind price yet unknown
 
-Black pepper 12$/kg (about 2.2 pounds)
+Black pepper 30c/oz
 
 <img  style="height: 50vh"
     src="/assets/img/pricing-black-pepper.jpeg"/>
