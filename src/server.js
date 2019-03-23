@@ -1,9 +1,8 @@
 let express = require('express')
 var bodyParser = require('body-parser')
-const url = require('url')
 
-let stripeAPIToken = process.env.stripToken || "sk_test_SkgQFmLtlPhZxSeJVOTLRHfC"
-var stripe = require("stripe")(stripeAPIToken)
+const stripeSecretKey = process.env.skStripe || "sk_test_SkgQFmLtlPhZxSeJVOTLRHfC"
+var stripe = require("stripe")(stripeSecretKey)
 
 let app = express()
 

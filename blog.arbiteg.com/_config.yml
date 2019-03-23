@@ -11,7 +11,7 @@ url: "https://www.arbiteg.com"
 header_pages:
   - mission.md
   - farmers.md
-  - pricing.md
+  - order.md
   - team.html
 
 collections:
@@ -19,6 +19,10 @@ collections:
 
 facebook_username: arbitegInc
 instagram_username: arbitegInc
+
+# Payment processing (public keys)
+pk-test-stripe: pk_test_PEkqGTBmD2oabX6TxKfJuGVd
+pk-prod-stripe: pk_live_kV8pLqOoxAKf7fJKXDdj1vCk
 
 # Production
 google_analytics: UA-81206382-2

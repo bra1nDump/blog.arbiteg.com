@@ -1,0 +1,22 @@
+{%- if jekyll.environment == 'production' -%}
+	{%- assign pk-stripe = site.pk-prod-stripe -%}
+{%- else -%}
+	{%- assign pk-stripe = site.pk-test-stripe -%}
+{%- endif -%}
+
+<form action="/api/place-order" method="POST">
+	<input type="hidden" name="order" value="{{ include.description }}" />
+  	<input type="hidden" name="amount" value="{{ include.price }}" />
+	<script
+	  src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+	  data-key="{{ pk-stripe }}"
+	  data-amount="{{ include.price }}"
+      data-name="Arbiteg Inc"
+      data-description="{{ include.description }}"
+      data-label="{{ include.button-label }}"
+      data-billing-address="true"
+      data-shipping-address="true"
+	  data-image="arbiteg-logo.png"
+	  data-locale="auto">
+	</script>
+</form>

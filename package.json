@@ -7,6 +7,7 @@
     "debug": "npm run jekyll-build && node inspect src/server.js",
     "test": "npm run jekyll-build && node src/server.js",
     "start": "node src/server.js",
+    "jekyll-build-prod": "export JEKYLL_ENV=production && npm run jekyll-build",
     "jekyll-build": "pushd blog.arbiteg.com && bundle exec jekyll build && popd"
   },
   "repository": {

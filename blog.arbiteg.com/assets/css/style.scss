@@ -71,7 +71,19 @@
    Pricing
 */
 
+.product-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: left;
+}
+
+// .order-buttons {
+//     // margin: 50px;
+// }
+
 .pricing-img {
     height: 50vh;
-    margin: auto;
+    margin: 10px;
 }
+
