@@ -14,7 +14,7 @@ now and get your cinamon delivered within a month. Shipping on us!
 		src="/assets/img/pricing-cinnamon-c5.jpeg"/>
 
 	<div class="order-buttons">
-		<h3>Ceylon cinnamon C5 grade (shipping included)</h3>
+		<h3>Order, worldwide shipping included</h3>
 
 		{% include checkout-button.html 
 			description="Ceylon cinnamon C5 grade"
@@ -50,7 +50,7 @@ now and get your cinamon delivered within a month. Shipping on us!
   	src="/assets/img/pricing-cinnamon-alba.jpeg"/>
 
 	<div class="order-buttons">
-	<h3>Order Ceylon cinnamon alba grade (shipping included)</h3>
+	<h3>Order, worldwide shipping included</h3>
 
 		{% include checkout-button.html 
 			description="Ceylon cinnamon alba grade"
@@ -86,7 +86,7 @@ now and get your cinamon delivered within a month. Shipping on us!
 	<img class="pricing-img" src="/assets/img/pricing-black-pepper.jpeg"/>
 
 	<div class="order-buttons">
-	<h3>Order black peper (shipping included)</h3>
+	<h3>Order, worldwide shipping included</h3>
 
 	{% include checkout-button.html 
 		description="Black pepper"
